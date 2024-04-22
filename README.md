@@ -20,3 +20,4 @@ Overall, this project combines advancements in machine learning, computer vision
 
 ## Example Output
 
+https://github.com/sahan2001/Lip-to-speech-synthesis/issues/1#issue-2255388940
